@@ -1,0 +1,16 @@
+Mengapa penting untuk melakukan penutupan dengan baik dan dengan baik pada koneksi TCP? 
+
+Penutupan dengan baik dan dengan baik atau graceful termination adalah proses penutupan koneksi yang dilakukan dengan baik dan dengan baik. 
+Proses penutupan koneksi yang tidak dilakukan dengan baik dapat menyebabkan kesalahan atau masalah pada sistem atau jaringan.
+
+Beberapa langkah yang diperlukan untuk menutup koneksi dengan baik, seperti:
+
+1. Mengirim pesan kesalahan ke pengguna atau aplikasi yang mengirim koneksi.
+2. Menunggu hingga koneksi ditutup secara benar.
+3. Membatasi koneksi baru selama koneksi lama belum ditutup secara benar.
+
+Melakukan penutupan dengan baik dan dengan baik penting untuk mengurangi kesalahan dan masalah yang dapat muncul ketika koneksi ditutup. 
+Jika koneksi tidak ditutup dengan baik, mungkin akan terjadi kesalahan atau masalah pada sistem atau jaringan.
+
+Untuk melakukan penutupan dengan baik dan dengan baik pada koneksi TCP, dapat menggunakan fitur TCP Keep-Alive yang memungkinkan pemeliharaan koneksi TCP yang aktif 
+
